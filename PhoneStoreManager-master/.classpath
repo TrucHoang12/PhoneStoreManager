@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="libs/itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/LGoodDatePicker-10.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="libs/POI/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="libs/POI/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="libs/POI/poi-4.1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
